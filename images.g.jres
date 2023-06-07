@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAADu7gAAAAAA4O7uDgDwAADu7u7uAPAA4P7u7u4O/wDu393u7t7/4O7/3+7u3Q3g7v7d7u7dDe7u7u/u7t0N7u7u7+7u3Q3g7v7d7u7dDeDu/9/u7t0NAO7f3e7u3v8A4P7u7u4O/wAA7u7u7gDwAADg7u4OAPAAAADu7gAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAODuAAAAAODeIAIA4O4A7t4tAiLu7uDuLiIAIt7t7S4iLQAi7t0tIiIiACLe3e0uIiIAIt3t7S4iIgAi7u3tIiItACAA7QDuIiLiIAAN7e4AIuIAANDt7gAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "}Im_+sJPWg~O?5r1},%%": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODeAOAA4O4A7t4t4iLu7uDuLiLiIt7t7S4iLeIi7t0tIiIiACLe3e0uIiIAIt3t7S4iIgAi7u3tIiIt4iAA7QDuIiLiIAANAO7eDeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mario_0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
